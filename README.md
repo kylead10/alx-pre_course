@@ -1,1 +1,1 @@
-A dive into ALX program and some
+A dive into ALX program and
