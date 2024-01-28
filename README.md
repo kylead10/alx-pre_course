@@ -1,1 +1,1 @@
-ALX program:Learning about git.
+ALX program: learning about git.
