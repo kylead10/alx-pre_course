@@ -1,1 +1,1 @@
-ALX program: learning agit.
+ALX program: learning git.
