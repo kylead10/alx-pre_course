@@ -1,1 +1,1 @@
-ALX program: learning about git.
+ALX program: learning abogit.
