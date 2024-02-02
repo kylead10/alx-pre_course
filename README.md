@@ -1,1 +1,1 @@
-ALX program: learning abogit.
+ALX program: learning agit.
